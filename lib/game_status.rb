@@ -86,5 +86,3 @@ WIN_COMBINATIONS.each do |win_combination|
 end
 end
 end
-end
-end
