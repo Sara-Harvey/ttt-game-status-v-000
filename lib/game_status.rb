@@ -85,4 +85,5 @@ WIN_COMBINATIONS.each do |win_combination|
 end
 end
 end
+return nil
 end
