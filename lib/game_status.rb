@@ -73,3 +73,4 @@ def winner(board)
   elsif win_combination == ["O", "O", "O"]
     return "O"
 end
+end
