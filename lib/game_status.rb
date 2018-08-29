@@ -69,10 +69,10 @@ end
 
 def winner(board)
   if WIN_COMBINATIONS == ["X", "X", "X"]
-    return "X"
+    puts "X"
   else 
     if WIN_COMBINATIONS == ["O", "O", "O"]
-    return "O"
+    puts "O"
 end
 end
 end
