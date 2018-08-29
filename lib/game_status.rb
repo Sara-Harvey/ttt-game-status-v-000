@@ -67,7 +67,7 @@ return true
 end
 end
 
-def winner?(board)
+def winner(board)
   if WIN_COMBINATIONS == ["X", "X", "X"]
     puts "X"
   else 
